@@ -1,3 +1,4 @@
+# Chronic Kidney Disease Detection using Naive Bayers and Logistic Regression
 Chronic kidney disease (CKD) is an increasing medical issue that declines the
 productivity of renal capacities and subsequently damages the kidneys. CKD is very
 common nowadays; cardiovascular infection and end-stage renal illness are two life
@@ -12,3 +13,7 @@ model are used to predict the risk factors of CKD. Considering the orderly execu
 investigations of these strategies, three algorithms give a superior and quicker
 characterization execution.individual algorithms are applied to the dataset and the best
 outcomes have been acquired through the classification of predicting risk factors
+
+Prediction accuracy
+1. Naive Bayers - 93%
+2. Logistic Regression - 95%
